@@ -2,6 +2,7 @@
   "name": "",
   "version": "",
   "dependencies": {
+    "bluebird": "^3.4.7",
     "debug": "^2.2.0",
     "dotenv": "^2.0.0",
     "json2csv": "^3.6.0",
@@ -15,4 +16,3 @@
     "yargs": "^4.7.1"
   }
 }
-
